@@ -1,3 +1,5 @@
+# Get Smart with Smarty 
+
 Die Main idea ist: 
 
 packe ein PDF hinein -> 
@@ -21,3 +23,11 @@ aus der PDF sollen die wichtigsten Informationen als Sprach datei extrahiert wer
 - die Ganze PDF als Datei? soll das LLM noch zusatz inforamtionen hinzufügen um das wie eine geschichte aufzubauen(da die Bilder fehlen) ?
 - selektion der Wichtigsten Inhalte evtl auf redundante anbshcnitte wenn Sie wichtig sind 
 - gestückelt oder als ganze Datei 
+
+
+## TODOS:
+
+- Ideen sammeln
+- User Stories erstellen 
+- User Sotries umsetzten 
+- be awesome 
