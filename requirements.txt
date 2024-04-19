@@ -1,0 +1,4 @@
+torch==2.2.2
+git+https://github.com/huggingface/parler-tts.git
+transformers
+TTS

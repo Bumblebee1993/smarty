@@ -28,7 +28,7 @@ aus der PDF sollen die wichtigsten Informationen als Sprach datei extrahiert wer
 ## TODOS:
 
 - Ideen sammeln
-- User Stories erstellen 
+- User Stories erstellen -> Pipeline Abastract()
 - User Sotries umsetzten 
 - be awesome 
 
@@ -45,11 +45,39 @@ Hugging_face
 
 
 ### 1:
-datei einfügen -> kpis/ wichtigiste Stellen heruasfinden -> Stellen speichern evtl mit zusätzlichen Informationen anreichern -> nur fragen daraus erstellen und mit einem 2ten model die Antowrten auf die Fragen geben die gemappt in der datenbank speichern ->  in markdown format ünbertragen 
+"ocr ** >- anreichner mit büchern " bild/ relvant? -> ja -> beschreiben  
+
+datei einfügen -> kpis/ wichtigiste Stellen heruasfinden(llama index -> reinladen) -> Stellen speichern evtl mit zusätzlichen Informationen anreichern(prompt keine weiterene informationen hinzufügen -> halus verhindern)-> evtl. überflüssig -> nur fragen daraus erstellen und mit einem 2ten model die Antowrten auf die Fragen geben die gemappt in der datenbank speichern(tags, Title, und metadaten vergeben zu den karteikarten) ->  in markdown format ünbertragen 
 
 ### 2:
+- didaktisch -> Lehrform 
+pdf -> openai asssistant -> llm -> in podcast / fragen antwort/ affirmationen(formel wdh. 10 ) 
+-> Datein als Stück oder ganz 
+
+## 1 & 2 Strukur:
+- abfrage
+- natrüclihe Suche meta Daten Podcast Ts, Topic, Tags,  
+
+
+## MVP:
+pdf rein -> karteikartten in markdonw format anki importierbar
+pdf rein -> ein Summary als mp4/mp3/wav devices (WIN,IOS,) 
+
+
+### Vektor Datenbank
+Suche  
 
 
 
+### Pipeline 
+pdf Sharepoint / OPEN Ai REST Assistan für PDf Db -> 
+
+
+
+## Prompt engineering 
+- beispiel mitgeben 
 
 # Wie kann man Die richtigkeit prüfen antwort Fragne und ob es die wichtigsten stellen sind? 
+
+
+
